@@ -3,3 +3,6 @@
 
 - 📫 How to reach me: dukesalman5@gmail.com
 - 😄 Pronouns: He/Him
+- You can checkout my recent projects:
+  - [Truth or Dare](https://lightmasters-truth-or-dare.herokuapp.com) : [🗂Repo](https://github.com/Salman-Shaik/truth-or-dare)
+  - [Random Movie Generator](https://lightmasters-salman.herokuapp.com/) : [🗂Repo](https://github.com/Salman-Shaik/random_movie_generator)
