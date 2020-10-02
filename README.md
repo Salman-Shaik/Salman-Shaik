@@ -1,4 +1,6 @@
-### Hi, I'm Salman 👋
+# Hi, I'm Salman 👋
+
+<img src="/Salman Shaik.png">
 
 ![Salman's github stats](https://github-readme-stats.vercel.app/api?username=Salman-Shaik&show_icons=true&count_private=true&theme=radical)
 
